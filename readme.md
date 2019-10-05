@@ -28,6 +28,6 @@
 <ul>
 	<li>there are two source code files, one is .py extention and another is .ipynb extention</li>
 	<li>one can run Scraping with BeautifulSoup.py file in python by run this cammand in terminal "python3 Web Scraping with BeautifulSoup.py"</li>
-	<li>one can run Scraping with BeautifulSoup.ipynb file in jupyter notebook /li>
+	<li>one can run Scraping with BeautifulSoup.ipynb file in jupyter notebook </li>
 	<li>one can install juypyter notebook by this command "pip3 install jupyter"</li>
 </ul>
