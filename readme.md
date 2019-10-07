@@ -1,4 +1,4 @@
-![web scraping with python](https://github.com/rajat4665/web-scraping-with-python/blob/master/WEB%20SCRAPING.jpg)
+![web scraping with python](https://github.com/DimuthuKasunWP/python-scraping/blob/master/WEB%20SCRAPING.jpg)
 <br>
 <span style="text-decoration: underline;"><strong>Introduction:</strong></span>
 
